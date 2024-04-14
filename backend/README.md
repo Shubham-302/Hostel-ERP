@@ -1,1 +1,1 @@
-# Hostel-ERP
+Dive into the heart of our application, where data is processed, actions are executed, and functionality comes to life. From managing databases to handling requests, our backend code ensures smooth operation, reliability, and security. Explore the scripts, functions, and algorithms that make everything possible behind the scenes. Whether you're a seasoned developer or just starting out, this folder holds the key to understanding the backbone of our project. Happy coding!
