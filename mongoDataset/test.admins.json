@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66194531db6926f9ca1aa233"
+  },
+  "name": "Shubham",
+  "email": "officialshubham.302@gmail.com",
+  "father_name": "Vijay Kumar",
+  "contact": "01236985632",
+  "address": "Haryana",
+  "dob": {
+    "$date": "1990-02-02T00:00:00.000Z"
+  },
+  "cnic": "9876543210987",
+  "user": {
+    "$oid": "66194531db6926f9ca1aa230"
+  },
+  "hostel": {
+    "$oid": "661943550f308af059ca0009"
+  },
+  "date": {
+    "$date": "2024-04-12T14:29:05.974Z"
+  },
+  "__v": 0
+}]

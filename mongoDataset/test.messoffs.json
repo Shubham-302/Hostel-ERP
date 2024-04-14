@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "66198f380ada55466eeaa365"
+  },
+  "student": {
+    "$oid": "6619821a0ada55466eeaa2f3"
+  },
+  "leaving_date": {
+    "$date": "2024-04-13T00:00:00.000Z"
+  },
+  "return_date": {
+    "$date": "2024-04-16T00:00:00.000Z"
+  },
+  "status": "approved",
+  "request_date": {
+    "$date": "2024-04-12T19:44:56.948Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,174 @@
+[{
+  "_id": {
+    "$oid": "6619810b0ada55466eeaa2e1"
+  },
+  "name": "Ram",
+  "cms_id": 111111,
+  "room_no": 101,
+  "batch": 2019,
+  "dept": "cse",
+  "course": "cse",
+  "email": "abc@gmail.com",
+  "father_name": "Shyam",
+  "contact": "09632587412",
+  "address": "India",
+  "dob": {
+    "$date": "2019-01-01T00:00:00.000Z"
+  },
+  "cnic": "1234567899632",
+  "user": {
+    "$oid": "6619810b0ada55466eeaa2df"
+  },
+  "hostel": {
+    "$oid": "661943550f308af059ca0009"
+  },
+  "date": {
+    "$date": "2024-04-12T18:44:27.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6619817c0ada55466eeaa2e7"
+  },
+  "name": "shyam",
+  "cms_id": 222222,
+  "room_no": 102,
+  "batch": 2022,
+  "dept": "cse",
+  "course": "cse",
+  "email": "bca@gmail.com",
+  "father_name": "ram",
+  "contact": "08972563478",
+  "address": "China",
+  "dob": {
+    "$date": "2024-01-02T00:00:00.000Z"
+  },
+  "cnic": "8529745632145",
+  "user": {
+    "$oid": "6619817c0ada55466eeaa2e5"
+  },
+  "hostel": {
+    "$oid": "661943550f308af059ca0009"
+  },
+  "date": {
+    "$date": "2024-04-12T18:46:20.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661981c80ada55466eeaa2ed"
+  },
+  "name": "naman",
+  "cms_id": 333333,
+  "room_no": 103,
+  "batch": 2023,
+  "dept": "it",
+  "course": "it",
+  "email": "xyz@gmail.com",
+  "father_name": "raman",
+  "contact": "08563791269",
+  "address": "Japan",
+  "dob": {
+    "$date": "2018-01-03T00:00:00.000Z"
+  },
+  "cnic": "9836042369756",
+  "user": {
+    "$oid": "661981c80ada55466eeaa2eb"
+  },
+  "hostel": {
+    "$oid": "661943550f308af059ca0009"
+  },
+  "date": {
+    "$date": "2024-04-12T18:47:36.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6619821a0ada55466eeaa2f3"
+  },
+  "name": "raman",
+  "cms_id": 444444,
+  "room_no": 104,
+  "batch": 2025,
+  "dept": "ece",
+  "course": "ece",
+  "email": "klm@gmail.com",
+  "father_name": "naman",
+  "contact": "07412301587",
+  "address": "USA",
+  "dob": {
+    "$date": "2016-01-13T00:00:00.000Z"
+  },
+  "cnic": "9827301480360",
+  "user": {
+    "$oid": "6619821a0ada55466eeaa2f1"
+  },
+  "hostel": {
+    "$oid": "661943550f308af059ca0009"
+  },
+  "date": {
+    "$date": "2024-04-12T18:48:58.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661ad1d2895d0baa6051a2a0"
+  },
+  "name": "zoya",
+  "cms_id": 555555,
+  "room_no": 105,
+  "batch": 2025,
+  "dept": "bca",
+  "course": "bca",
+  "email": "zoya@gmail.com",
+  "father_name": "Ram",
+  "contact": "04157896370",
+  "address": "jakarta",
+  "dob": {
+    "$date": "2024-04-02T00:00:00.000Z"
+  },
+  "cnic": "8567103200012",
+  "user": {
+    "$oid": "661ad1d1895d0baa6051a29e"
+  },
+  "hostel": {
+    "$oid": "661943550f308af059ca0009"
+  },
+  "date": {
+    "$date": "2024-04-13T18:41:22.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661b7ef624a85abd7350713d"
+  },
+  "name": "virat",
+  "cms_id": 666666,
+  "room_no": 106,
+  "batch": 2026,
+  "dept": "phd",
+  "course": "phd",
+  "email": "virat@gmail.com",
+  "father_name": "kohli",
+  "contact": "02102102530",
+  "address": "mumbai",
+  "dob": {
+    "$date": "2024-01-16T00:00:00.000Z"
+  },
+  "cnic": "08974251452145",
+  "user": {
+    "$oid": "661b7ef624a85abd7350713b"
+  },
+  "hostel": {
+    "$oid": "661943550f308af059ca0009"
+  },
+  "date": {
+    "$date": "2024-04-14T07:00:06.225Z"
+  },
+  "__v": 0
+}]

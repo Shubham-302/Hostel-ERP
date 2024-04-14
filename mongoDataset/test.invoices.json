@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6619829d0ada55466eeaa32c"
+  },
+  "student": {
+    "$oid": "6619810b0ada55466eeaa2e1"
+  },
+  "title": "Mess Fee",
+  "amount": 9300,
+  "status": "pending",
+  "date": {
+    "$date": "2024-04-12T18:51:09.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6619829d0ada55466eeaa32e"
+  },
+  "student": {
+    "$oid": "6619817c0ada55466eeaa2e7"
+  },
+  "title": "Mess Fee",
+  "amount": 9300,
+  "status": "approved",
+  "date": {
+    "$date": "2024-04-12T18:51:09.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6619829d0ada55466eeaa335"
+  },
+  "student": {
+    "$oid": "6619821a0ada55466eeaa2f3"
+  },
+  "title": "Mess Fee",
+  "amount": 9300,
+  "status": "approved",
+  "date": {
+    "$date": "2024-04-12T18:51:09.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6619829d0ada55466eeaa337"
+  },
+  "student": {
+    "$oid": "661981c80ada55466eeaa2ed"
+  },
+  "title": "Mess Fee",
+  "amount": 9300,
+  "status": "pending",
+  "date": {
+    "$date": "2024-04-12T18:51:09.724Z"
+  },
+  "__v": 0
+}]

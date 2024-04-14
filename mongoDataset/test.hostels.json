@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "661943550f308af059ca0009"
+  },
+  "name": "Franklin Boys Hostel",
+  "location": "Chitkara University",
+  "rooms": "500",
+  "capacity": "2000",
+  "vacant": "2000"
+}]

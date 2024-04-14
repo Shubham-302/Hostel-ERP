@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "661982280ada55466eeaa302"
+  },
+  "student": {
+    "$oid": "6619810b0ada55466eeaa2e1"
+  },
+  "status": "present",
+  "date": {
+    "$date": "2024-04-12T18:49:12.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6619822a0ada55466eeaa30a"
+  },
+  "student": {
+    "$oid": "661981c80ada55466eeaa2ed"
+  },
+  "status": "present",
+  "date": {
+    "$date": "2024-04-12T18:49:14.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6619822c0ada55466eeaa312"
+  },
+  "student": {
+    "$oid": "6619821a0ada55466eeaa2f3"
+  },
+  "status": "absent",
+  "date": {
+    "$date": "2024-04-12T18:49:16.950Z"
+  },
+  "__v": 0
+}]
